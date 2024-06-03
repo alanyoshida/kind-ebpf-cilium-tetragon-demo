@@ -1,0 +1,9 @@
+apiVersion: v2
+name: metallb
+version: 0.1.0
+appVersion: v0.1.0
+description: Metal Load Balancer for kind
+maintainers:
+  - name: Alan Yoshida
+    email: alanyoshida88@gmail.com
+
